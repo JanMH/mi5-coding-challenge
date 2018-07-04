@@ -1,0 +1,7 @@
+[package]
+name = "mi5"
+version = "0.1.0"
+authors = ["Jan Herlyn <jan.herlyn@gmail.com>"]
+
+[dependencies]
+image = "*"
